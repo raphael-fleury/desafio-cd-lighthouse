@@ -1,7 +1,7 @@
 # Desafio Lighthouse - Ciência de Dados
 Raphael Fleury 
 ## Como Executar
-- Instalar [Python 3.12](https://www.python.org/downloads/release/python-3128/)
+- Instalar [Python 3.12](https://www.python.org/downloads/release/python-3128/) (versões próximas também devem funcionar)
 - Clonar este repositório para seu computador
 - Abrir o terminal na raiz do projeto
 - Criar e ativar ambiente virtual (opcional):
