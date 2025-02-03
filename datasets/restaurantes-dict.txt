@@ -1,0 +1,12 @@
+Dataset retirado de https://www.kaggle.com/datasets/beridzeg45/nyc-restaurants?resource=download
+
+URL - url do restaurante no google maps
+Name - nome do restaurante
+Rating - media das avaliações
+Rating Count - número de avaliações
+Detailed Ratings - número de avaliações por nota
+Price Category - 1: barato, 4: caro
+Address - endereço
+Lat - latitude
+Lon - longitude
+ZipCode - código de endereço
