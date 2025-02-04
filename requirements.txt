@@ -4,7 +4,6 @@ seaborn==0.13.2
 matplotlib==3.10.0
 scipy==1.15.1
 scikit-learn==1.6.1
-folium==0.19.4
 xgboost==2.1.13
 geopandas==1.0.1
 geodatasets==2024.8.0
